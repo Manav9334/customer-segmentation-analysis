@@ -7,7 +7,7 @@ An end-to-end project that analyzes e-commerce customer behavior using **RFM Ana
 ## Live Demo
 
 > Deploy your app and paste the link here:
-> **[View Live Dashboard](https://your-username-customer-segmentation.streamlit.app)**
+> **[View Live Dashboard](https://customer-segmentation-analysis-manav.streamlit.app/)**
 
 ---
 
